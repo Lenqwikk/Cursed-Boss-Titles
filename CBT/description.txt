@@ -1,0 +1,52 @@
+[h1]Ever thought Terraria bosses weren't cursed enough?[/h1]
+
+[b]Cursed Boss Titles[/b] adds custom boss intro screens inspired by [i]Infernum Mode[/i] — but with much more questionable text. 
+
+Every supported boss gets a custom title card with its own unique description, colors, and styling.
+
+[hr][/hr]
+
+[list]
+[*][b]Currently Supported Content:[/b]
+[list]
+[*]All Vanilla Terraria bosses
+[*][i]Fargo's Souls Mod[/i] (Full support)
+[list]
+[*]All major Fargo's bosses
+[*]All Champions
+[*]Special text for Mutant on Masochist Mode
+[*]Special text for Moon Lord
+[/list]
+[*][i]Calamity Mod[/i] (Partial support)
+[list]
+[*]All major Calamity bosses
+[*]1 mini boss (Giant Clam)
+[*]Special text for Moon Lord
+[/list]
+[*]Special text for Moon Lord when both mods are enabled
+[*][i]Infernum Mode[/i] (Planned)
+[*][i]Thorium Mod[/i] (Planned)
+[/list]
+[/list]
+
+[hr][/hr]
+
+[list]
+[*][b]Key Features:[/b]
+[list]
+[*]Custom boss intro screens
+[*]Infernum-inspired animations and visual style
+[*]Custom gradients and colors for bosses
+[*]Progressive letter-by-letter text reveal
+[*]Boss-specific cursed descriptions
+[*]Fargo's Souls & Calamity Mod compatibility
+[*]Special Masochist Mode introductions
+[*]More mod compatibility planned!
+[/list]
+[/list]
+
+[hr][/hr]
+
+[i]More titles and mod integrations are coming soon![/i]
+
+[b]Developed By:[/b] Lenqwikk

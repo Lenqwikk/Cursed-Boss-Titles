@@ -1,0 +1,4 @@
+name = CBT
+displayName = Cursed Boss Titles | Calamity & Fargo's Souls Support
+author = Lenqwikk
+version = 0.3.05

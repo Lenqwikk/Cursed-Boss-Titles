@@ -1,0 +1,340 @@
+BossIntros: {
+	EyeOfCthulhuIntro.TextToDisplay:
+		'''
+		The Chocolate Eye Of Moon Lord
+		Eye of Cthulhu
+		'''
+	KingSlimeIntro.TextToDisplay:
+		'''
+		Revived Sperm From a Sock
+		King Slime
+		'''
+	EaterOfWorldsIntro.TextToDisplay:
+		'''
+		The Gaben Worm
+		Eater Of Worlds
+		'''
+	BrainOfCthulhuIntro.TextToDisplay:
+		'''
+		Neural Fuck-Up
+		Brain of Cthulhu
+		'''
+	QueenBeeIntro.TextToDisplay:
+		'''
+		Your Friend's Mom
+		Queen Bee
+		'''
+	SkeletronIntro.TextToDisplay:
+		'''
+		The Piss-Stained Skull
+		Skeletron
+		'''
+	WallOfFleshIntro.TextToDisplay:
+		'''
+		Last Year's Beefsteak
+		Wall of flesh
+		'''
+	TwinsIntro.TextToDisplay:
+		'''
+		Moon Lord Balls
+		The Twins
+		'''
+	SkeletronPrime.TextToDisplay:
+		'''
+		Sans from future
+		Skeletron Prime
+		'''
+	QueenSlimeIntro.TextToDisplay:
+		'''
+		Revived Empress of Light's Squirt
+		Queen Slime
+		'''
+	PlanteraIntro.TextToDisplay:
+		'''
+		Greta Thunberg's Flower
+		Plantera
+		'''
+
+	MoonLordIntro: {
+		TextToDisplay:
+			'''
+			THIS IS END OF THE GAME, MAN!
+			Moon Lord
+			'''
+		FargoText:
+			'''
+			Well, you're fucked after this one
+			Moon Lord
+			'''
+		CalamityText:
+			'''
+			Good luck not getting fucked after this one
+			Moon Lord
+			'''
+		BothModsText:
+			'''
+			You're clearly fucked in the head
+			Moon Lord
+			'''
+	}
+
+	GolemIntro.TextToDisplay:
+		'''
+		Great infirmity
+		Golem
+		'''
+	FishronIntro.TextToDisplay:
+		'''
+		A sow mixed with a crucian carp
+		Fishron
+		'''
+	DestroyerIntro.TextToDisplay:
+		'''
+		Anal Ripper
+		Destroyer
+		'''
+	CultistIntro.TextToDisplay:
+		'''
+		Moon Lord's favorite femboy
+		Cultist
+		'''
+	EmpressOfLightIntro.TextToDisplay:
+		'''
+		Why do people jerk off to this?
+		Empress Of Light
+		'''
+	BetsyIntro.TextToDisplay:
+		'''
+		And where is the donkey?
+		Betsy
+		'''
+	DeerclopsIntro.TextToDisplay:
+		'''
+		Why the hell did they add it?
+		Deerclops
+		'''
+	SquirrelIntro.TextToDisplay:
+		'''
+		aftermath of getting drunk
+		trojan Squirrel
+		'''
+
+	MutantIntro: {
+		TextToDisplay:
+			'''
+			The Terraria Player Fucker
+			Mutant
+			'''
+		MasochistText:
+			'''
+			You're fucked
+			Mutant
+			'''
+	}
+
+	AbomIntro.TextToDisplay:
+		'''
+		What the fuck is that
+		Abomination
+		'''
+	BaronIntro.TextToDisplay:
+		'''
+		Duke Fishron from Temu
+		Banished Baron
+		'''
+	CursedCoffinIntro.TextToDisplay:
+		'''
+		Sarcophagus from Temu
+		Cursed Coffin
+		'''
+	DeviIntro.TextToDisplay:
+		'''
+		The slut from the neighborhood
+		Deviantt
+		'''
+	LifelightIntro.TextToDisplay:
+		'''
+		The light at the end of the tunnel
+		Lifelight
+		'''
+	EridanIntro.TextToDisplay:
+		'''
+		Mafia boss on steroids
+		Eridan, Champion of Cosmos
+		'''
+	DeathIntro.TextToDisplay:
+		'''
+		Should've had a scythe
+		Champion of Death
+		'''
+	EarthIntro.TextToDisplay:
+		'''
+		Shouldn't have gone fishing
+		Champion of Earth
+		'''
+	ForestIntro.TextToDisplay:
+		'''
+		The aftermath of getting drunk x2
+		Champion of Timber
+		'''
+	LifeIntro.TextToDisplay:
+		'''
+		Shouldn't have touched the Quran
+		Champion of Life
+		'''
+	NatureIntro.TextToDisplay:
+		'''
+		Evolution's mistake
+		Champion of Nature
+		'''
+	PlanetIntro.TextToDisplay:
+		'''
+		Hot-ass head, gimme a pie
+		Champion of Terra
+		'''
+	SpiritIntro.TextToDisplay:
+		'''
+		Sarcophagus from Temu x2
+		Champion of Spirit
+		'''
+	WillIntro.TextToDisplay:
+		'''
+		Duke Fishron from Temu x2
+		Champion of Will
+		'''
+	Aquatic.TextToDisplay:
+		'''
+		Desert Scourge in his prime
+		Aquatic Scourge
+		'''
+	Brimstone.TextToDisplay:
+		'''
+		Sergey the transgender
+		Brimstone Elemental
+		'''
+	Crabulon.TextToDisplay:
+		'''
+		Chernobyl Crab
+		Crabulon
+		'''
+	Cryogen.TextToDisplay:
+		'''
+		Giant freezer
+		Cryogen
+		'''
+	Desert.TextToDisplay:
+		'''
+		Sandy Butthole Tickler
+		Desert Scourge
+		'''
+	HiveMind.TextToDisplay:
+		'''
+		Brain cancer that escaped
+		The Hive Mind
+		'''
+	Perforators.TextToDisplay:
+		'''
+		Bloody little worms
+		The Perforators
+		'''
+	SlimeGod.TextToDisplay:
+		'''
+		Living diarrhea
+		The Slime God
+		'''
+	Yharon.TextToDisplay:
+		'''
+		Ow, my ass is burning
+		Yharon
+		'''
+	Void.TextToDisplay:
+		'''
+		Even after the end of the universe, you'll still be its worst mistake
+		Ceaseless Void
+		'''
+	Storm.TextToDisplay:
+		'''
+		Flying eel
+		Storm Weaver
+		'''
+	Signus.TextToDisplay:
+		'''
+		Alien thug
+		Signus
+		'''
+	Ravager.TextToDisplay:
+		'''
+		Was he really added just for the sake of it?
+		Ravager
+		'''
+	Providence.TextToDisplay:
+		'''
+		The ultimate Profaned scum
+		Providence
+		'''
+	Polterghast.TextToDisplay:
+		'''
+		Polter-what?
+		Polterghast
+		'''
+	Guardians.TextToDisplay:
+		'''
+		Profaned Trinity
+		Profaned Guardians
+		'''
+	Goliath.TextToDisplay:
+		'''
+		So that's why the plague happened
+		The Plaguebringer Goliath
+		'''
+	ExoMechs.TextToDisplay:
+		'''
+		Three calculators with guns
+		Exo Mechs
+		'''
+	Duke.TextToDisplay:
+		'''
+		Old flying surströmming
+		The Old Duke
+		'''
+	Dragonfolly.TextToDisplay:
+		'''
+		Yharon's knockoff
+		Dragonfolly
+		'''
+	DoG.TextToDisplay:
+		'''
+		The universe's ultimate ass destroyer
+		The Devourer of Gods
+		'''
+	Deus.TextToDisplay:
+		'''
+		Why do the Calamity devs love worms so much?
+		Astrum Deus
+		'''
+	Clone.TextToDisplay:
+		'''
+		Doesn't really look like Calamitas
+		Calamitas Clone
+		'''
+	Clam.TextToDisplay:
+		'''
+		Just a big clam
+		Giant Clam
+		'''
+	Calamitas.TextToDisplay:
+		'''
+		You're really about to get your ass kicked by a girl
+		Supreme Calamitas
+		'''
+	Aureus.TextToDisplay:
+		'''
+		Astral stomper
+		Astrum Aureus
+		'''
+	Anahita.TextToDisplay:
+		'''
+		Girl with a big (not just a brother)
+		Anahita and Leviathan
+		'''
+}

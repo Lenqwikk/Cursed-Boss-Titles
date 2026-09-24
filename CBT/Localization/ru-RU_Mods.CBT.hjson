@@ -1,0 +1,349 @@
+BossIntros: {
+
+	// Vanilla //
+	
+	EyeOfCthulhuIntro.TextToDisplay:
+		'''
+		Шоколадный Глазик Лунного Лорда
+		Глаз Ктулху
+		'''
+	KingSlimeIntro.TextToDisplay:
+		'''
+		Ожившая сперма из носка
+		Король слизней
+		'''
+	EaterOfWorldsIntro.TextToDisplay:
+		'''
+		Глист Габена
+		Пожиратель миров
+		'''
+	BrainOfCthulhuIntro.TextToDisplay:
+		'''
+		Нейронный пиздец
+		Мозг ктулху
+		'''
+	QueenBeeIntro.TextToDisplay:
+		'''
+		Мамка твоего друга
+		Королева пчел
+		'''
+	SkeletronIntro.TextToDisplay:
+		'''
+		Санс на стероидах
+		Скелетрон
+		'''
+	WallOfFleshIntro.TextToDisplay:
+		'''
+		Прошлогодний Бифштекс
+		Стена Плоти
+		'''
+	TwinsIntro.TextToDisplay:
+		'''
+		Яички Лунного Лорда
+		Близнецы
+		'''
+	SkeletronPrime.TextToDisplay:
+		'''
+		Санс из будущего
+		Скелетрон Прайм
+		'''
+	QueenSlimeIntro.TextToDisplay:
+		'''
+		Оживший Сквирт Императрицы Света
+		Королева Слизней
+		'''
+	PlanteraIntro.TextToDisplay:
+		'''
+		Цветок Ивана Золо
+		Плантера
+		'''
+
+	MoonLordIntro: {
+		TextToDisplay:
+			'''
+			Это конец игры, чувак!
+			Лунный лорд
+			'''
+		FargoText:
+			'''
+			Ну, после него тебе жопа
+			Лунный Лорд
+			'''
+		CalamityText:
+			'''
+			Удачи не быть выебанным после него
+			Лунный Лорд
+			'''
+		BothModsText:
+			'''
+			Ты явно ебнутый
+			Лунный лорд
+			'''
+	}
+
+	GolemIntro.TextToDisplay:
+		'''
+		Великий немощь
+		Голем
+		'''
+	FishronIntro.TextToDisplay:
+		'''
+		Свиноматка смешанная с карасём
+		Герцог Рыброн	
+		'''
+	DestroyerIntro.TextToDisplay:
+		'''
+		анальный потрошитель
+		Уничтожитель
+		'''
+	CultistIntro.TextToDisplay:
+		'''
+		Любимый Фембой Лунного Лорда
+		Культист-Лунатик
+		'''
+	EmpressOfLightIntro.TextToDisplay:
+		'''
+		Почему люди дрочат на это?
+		Императрица Света
+		'''
+	BetsyIntro.TextToDisplay:
+		'''
+		А где осел?
+		Бетси
+		'''
+	DeerclopsIntro.TextToDisplay:
+		'''
+		Нахера его добавили?
+		Циклоп-олень
+		'''
+
+	// Fargo's Souls //
+
+	SquirrelIntro.TextToDisplay:
+		'''
+		Последстие пьянки
+		Троянская белка
+		'''
+
+	MutantIntro: {
+		TextToDisplay:
+			'''
+			Ебатель всех игроков террарии
+			Мутант
+			'''
+		MasochistText:
+			'''
+			Тебе пизда
+			Мутант
+			'''
+	}
+
+	AbomIntro.TextToDisplay:
+		'''
+		Что за
+		Мерзостть
+		'''
+	BaronIntro.TextToDisplay:
+		'''
+		Герцог Рыброн С алиэкспресс
+		Изганный Барон
+		'''
+	CursedCoffinIntro.TextToDisplay:
+		'''
+		Саркофаг с алиэкспресс
+		Проклятый саркофаг
+		'''
+	DeviIntro.TextToDisplay:
+		'''
+		Давалка с подъезда
+		Девиантт
+		'''
+	LifelightIntro.TextToDisplay:
+		'''
+		Свет в конце туннеля
+		Свет Жизни
+		'''
+	EridanIntro.TextToDisplay:
+		'''
+		Мафиози на максималках
+		Эридан, чемпион космоса
+		'''
+	DeathIntro.TextToDisplay:
+		'''
+		Лучше был бы с косой
+		Чемпион смерти
+		'''
+	EarthIntro.TextToDisplay:
+		'''
+		Не надо было им рыбачить
+		Чемпион Земли
+		'''
+	ForestIntro.TextToDisplay:
+		'''
+		Последствия Пьянки х2
+		Чемпион Леса
+		'''
+	LifeIntro.TextToDisplay:
+		'''
+		Не надо было трогать коран
+		Чемпион Жизни
+		'''
+	NatureIntro.TextToDisplay:
+		'''
+		Ошибка эволюции
+		Чемпион природы
+		'''
+	PlanetIntro.TextToDisplay:
+		'''
+		Раскаленная башка дай пирожка
+		Чемпион планеты
+		'''
+	SpiritIntro.TextToDisplay:
+		'''
+		Саркофаг с алиэкспресс х2
+		Чемпион духа
+		'''
+	WillIntro.TextToDisplay:
+		'''
+		Герцог Рыброн С алиэкспресс х2
+		Чемпион воли
+		'''
+	
+	// Calamity Mode //
+
+	Aquatic.TextToDisplay:
+		'''
+		Пустынный бич в прайме
+		Акватический бич
+		'''
+	Brimstone.TextToDisplay:
+		'''
+		Серёга трансгендер
+		серный элементаль
+		'''
+	Crabulon.TextToDisplay:
+		'''
+		Чернобыльский Крабик
+		Крабулон
+		'''
+	Cryogen.TextToDisplay:
+		'''
+		Огромная морозилка
+		Криоген
+		'''
+	Desert.TextToDisplay:
+		'''
+		Песчанный Щекотун анусов
+		Пустынный бич
+		'''
+	HiveMind.TextToDisplay:
+		'''
+		Сбежавший рак мозга
+		Разум улья
+		'''
+	Perforators.TextToDisplay:
+		'''
+		Кровавые глистики
+		Перфораторы
+		'''
+	SlimeGod.TextToDisplay:
+		'''
+		Оживший понос
+		Бог слизней
+		'''
+	Yharon.TextToDisplay:
+		'''
+		Ай, жопа горит
+		Ярон
+		'''
+	Void.TextToDisplay:
+		'''
+		Даже после конца вселенной ты останешься её худшей ошибкой
+		Нескончаемая пустота
+		'''
+	Storm.TextToDisplay:
+		'''
+		Летающий угорь
+		Штормовой ткач
+		'''
+	Signus.TextToDisplay:
+		'''
+		Инопланетный гопник
+		Сигнус
+		'''
+	Ravager.TextToDisplay:
+		'''
+		Его для галочки добавили?
+		Разрушитель
+		'''
+	Providence.TextToDisplay:
+		'''
+		Главная Осквернённая мразота
+		Провиденс, Осквернённая богиня
+		'''
+	Polterghast.TextToDisplay:
+		'''
+		Полтер-что?
+		Полтергаст
+		'''
+	Guardians.TextToDisplay:
+		'''
+		Осквернённый тройственный пакт
+		Осквернённые стражи
+		'''
+	Goliath.TextToDisplay:
+		'''
+		Так вот почему чума появилась
+		Предвестница чумы, Голиаф
+		'''
+	ExoMechs.TextToDisplay:
+		'''
+		Три калькулятора с пушками
+		Экзо-Механизмы
+		'''
+	Duke.TextToDisplay:
+		'''
+		Старый летающий Сюрстрёмминг
+		Старый герцог
+		'''
+	Dragonfolly.TextToDisplay:
+		'''
+		Подделка ярона
+		Псевдодракон
+		'''
+	DoG.TextToDisplay:
+		'''
+		Главный разрыватель аналов во вселенной
+		Пожиратель богов
+		'''
+	Deus.TextToDisplay:
+		'''
+		Почему разрабы каламити так любят червей?
+		Аструм Деус
+		'''
+	Clone.TextToDisplay:
+		'''
+		Не очень то похоже на калмитас
+		Клон Каламитас
+		'''
+	Clam.TextToDisplay:
+		'''
+		Просто большой моллюск
+		Гигантский моллюск
+		'''
+	Calamitas.TextToDisplay:
+		'''
+		Тебя реально отпиздит Девушка
+		Высшая серная ведьма, Каламитас
+		'''
+	Aureus.TextToDisplay:
+		'''
+		Астральный топотун
+		Аструм Ареус
+		'''
+	Anahita.TextToDisplay:
+		'''
+		Девушка с большим (не только братом)
+		Анахита и левиафан
+		'''
+}
